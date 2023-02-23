@@ -1,0 +1,60 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0em;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    background-color: #C8B7A6;
+
+}
+
+.destacado{
+    font-size: 1.7em;
+    font-weight: 600;
+}
+
+#portada{
+    width: 95%;
+    background-color: #7D94A5;
+    border-radius: 1.7em;
+    margin-left: 2%;
+}
+
+#estudios {
+    width: 100%;
+    border: 0.13em solid gray;
+    border-radius: 1.7em;
+    padding: 1em;
+    background-color: #86C199;
+}
+
+#portada, tr, td{
+    padding: 2em;
+}
+
+#fotoPerfil{
+    width: 200px;
+    border-radius: 1em;
+}
+
+a button{
+    float: right;
+}
+
+.logoEstudio{
+    width: 150px;
+    height: auto;
+    border-radius: 59%;
+}
+
+table .logoEstudio{
+    width: 200px;
+}
+
+.Institucion{
+    font-size: 1.4em;
+}
+
+.tiempoEstudio{
+    font-style: oblique;
+    font-size: 15px;
+}
